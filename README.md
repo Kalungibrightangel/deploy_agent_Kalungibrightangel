@@ -66,5 +66,7 @@ Python3 installed and accessible via python3 --version
 
 Notes
 
-Always run the script from the directory containing the source files (attendance_checker.py, assets.csv, config.json, reports.log
+Always run the script from the directory containing the source files (attendance_checker.py, assets.csv, config.json, reports.log)
 
+Below is the youtube link that provides more information about the script.
+https://youtu.be/aN8Pp4BAwfE
